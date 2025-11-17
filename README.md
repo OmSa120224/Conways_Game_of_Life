@@ -8,4 +8,4 @@ The game is a **cellular automaton** with four rules:
 - Any live cell with more than three live neighbors dies (over-population).  
 - Any dead cell with exactly three live neighbors becomes a live cell (reproduction).
 
-Learn more on [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+[Wikipedia's Article](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
